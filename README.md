@@ -1,6 +1,15 @@
 # form-test
 
 ## Project setup
+
+```
+git clone https://github.com/renzivan/vuejs-form-test.git <folder_name>
+```
+
+```
+cd <folder_name>
+```
+
 ```
 npm install
 ```
